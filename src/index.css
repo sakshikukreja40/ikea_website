@@ -1,0 +1,127 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.c1{
+  text-align: 'left';
+}
+.c2{
+  text-align: 'right';
+}
+
+
+
+.container d-flex align-items-center justify-content-between{
+  color: #463903ef;
+  background-color: #463903ef;
+  background: #463903ef;
+}
+
+
+span{
+  text-shadow: 2px 2px 5PX #b93838;
+}
+#header {
+  transition: all 0.5s;
+  background: #f3cd37ef;
+  
+  padding: 10px 0;
+  border-bottom: 1px solid #e6f2fb;
+  color: rgb(88, 102, 212);
+}
+#header.header-scrolled {
+  border-color: #862088;
+  box-shadow: 0px 2px 15px rgba(75, 142, 190, 0.08);
+}
+#header .logo {
+  font-size: 28px;
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+  
+  font-family: "Poppins", sans-serif;
+}
+#header .logo a {
+  color: #ddd657;
+}
+#header .logo img {
+  max-height: 100px;
+  max-width: 200px;
+}
+@media (max-width: 992px) {
+  #header .logo {
+    font-size: 28px;
+  }
+}
+
+/*--------------------------------------------------------------
+# Navigation Menu
+--------------------------------------------------------------*/
+/**
+* Desktop Navigation 
+*/
+.navbar {
+  padding: 0;
+}
+.navbar ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+.navbar li {
+  position: relative;
+}
+.navbar a, .navbar a:focus {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0 10px 30px;
+  font-size: 17px;
+  color: #f6be26;
+  white-space: nowrap;
+  transition: 0.3s;
+}
+
+.navbar a i, .navbar a:focus i {
+  font-size: 12px;
+  line-height: 0;
+  margin-left: 5px;
+}
+.navbar a:hover, .navbar .active:focus, .navbar li:hover > a {
+  color: #4051cf;
+}
+.navbar .getstarted, .navbar .getstarted:focus {
+  background: #f032dd;
+  padding: 8px 20px;
+  margin-left: 30px;
+  border-radius: 4px;
+  color: #aaaa0f;
+}
+.navbar .getstarted:hover, .navbar .getstarted:focus:hover {
+  color: #0f39ac;
+  background: #666d6d;
+}
+
+.copyright{
+  color: #ffffff; font-size: 22px;
+}
+#contact{
+  background-color: #f3cd37ef; margin-left: auto; margin-right: auto; position: absolute; top: 840px; text-align: center; padding-left: 560px; padding-right: 548px; padding-top: 0px; padding-bottom: 20px;
+}
+.insta{
+  text-decoration: #f3cd37ef;
+}
+
+

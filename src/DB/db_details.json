@@ -1,0 +1,241 @@
+{
+  "customers": [
+    {
+      "id": "A",
+      "username": "rahul",
+      "password": "rahul1234",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": "B",
+      "username": "anshita",
+      "password": "anshita1234",
+      "email": "anshita@gmail.com"
+    },
+    {
+      "id": "C",
+      "username": "meetha",
+      "password": "meetha1234",
+      "email": "meetha@gmail.com"
+    },
+    {
+      "id": "D",
+      "username": "snigdha",
+      "password": "snigdha1234",
+      "email": "snigdha@gmail.com"
+    },
+    {
+      "id": "E",
+      "username": "tharun",
+      "password": "tharun1234",
+      "email": "tharun@gmail.com"
+    },
+    {
+      "username": "hihi",
+      "password": "opopop",
+      "email": "op@gmail.com",
+      "id": "RTrBdl-"
+    },
+    {
+      "username": "deepika",
+      "password": "deepika1234",
+      "email": "deepika@gmail.com",
+      "id": "zIs0fIh"
+    },
+    {
+      "id": "3d78",
+      "username": "sk",
+      "password": "sakshi1234",
+      "email": "sakshik0652@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "prodid": 100,
+      "prodname": "Pot and Plant",
+      "prodcategory": "Plant",
+      "prodarea": "Hall",
+      "details": "POTS AND PLANTS",
+      "image": "https://media.istockphoto.com/id/1380361370/photo/decorative-banana-plant-in-concrete-vase-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=eYADMQ9dXTz1mggdfn_exN2gY61aH4fJz1lfMomv6o4=",
+      "cost": 1500
+    },
+    {
+      "id": "2",
+      "prodid": 101,
+      "prodname": "Pillows",
+      "prodcategory": "Bed",
+      "prodarea": "Bedroom",
+      "details": "Comfortable and soft",
+      "image": "https://media.istockphoto.com/id/182354999/photo/red-orange-and-white-throw-pillows-on-a-white-background.jpg?s=612x612&w=0&k=20&c=n9OVajUQ5c2I4Hkbhte9LRJxTNR5MTSYGLPrznXqvrE=",
+      "cost": 500
+    },
+    {
+      "id": "3",
+      "prodid": 102,
+      "prodname": "Bed",
+      "prodcategory": "Bed",
+      "prodarea": "Bedroom",
+      "details": "Comfortable and stylish",
+      "image": "https://images.woodenstreet.de/image/data/bed-with-storage/walken-bed-with-storage/updated/updated/honey/8.jpg",
+      "cost": 35000
+    },
+    {
+      "id": "4",
+      "prodid": 103,
+      "prodname": "Dressing Table",
+      "prodcategory": "Furniture",
+      "prodarea": "Bedroom",
+      "details": "Stylish vanity table",
+      "image": "https://images.thdstatic.com/productImages/19ed1eaa-f38e-43b5-b02b-de9f2b8a8b48/svn/white-makeup-vanities-ye-d8l226-64_600.jpg",
+      "cost": 17000
+    },
+    {
+      "id": "5",
+      "prodid": 104,
+      "prodname": "Chair",
+      "prodcategory": "Furniture",
+      "prodarea": "Hall",
+      "details": "Yellow armchair",
+      "image": "https://www.shutterstock.com/image-vector/vector-realistic-yellow-armchair-3d-600nw-2239751635.jpg",
+      "cost": 7500
+    },
+    {
+      "id": "6",
+      "prodid": 105,
+      "prodname": "Coffee Table",
+      "prodcategory": "Furniture",
+      "prodarea": "Hall",
+      "details": "Huge Coffee table",
+      "image": "https://d91ztqmtx7u1k.cloudfront.net/ClientContent/Images/Catalogue/20220223121633-692a8af6-5ff7-4421-b3df-8efbb4edd8ff.jpg",
+      "cost": 9000
+    },
+    {
+      "id": "7",
+      "prodid": 106,
+      "prodname": "Sofa",
+      "prodcategory": "Furniture",
+      "prodarea": "Hall",
+      "details": "Stylish and comfortable",
+      "image": "https://t4.ftcdn.net/jpg/02/83/53/27/360_F_283532744_Rbs039ygDyekkcCgXp7n3fwEPfB21tjJ.jpg",
+      "cost": 45000
+    },
+    {
+      "id": "8",
+      "prodid": 107,
+      "prodname": "Lamp",
+      "prodcategory": "Showpiece",
+      "prodarea": "Bedroom",
+      "details": "Bright lamp",
+      "image": "https://media.istockphoto.com/id/627077732/photo/table-lamp.jpg?s=612x612&w=0&k=20&c=vPQ_i0qTwldTjME1iLE5Paud7drEGeaNNS-614xZhGk=",
+      "cost": 3000
+    },
+    {
+      "id": "9",
+      "prodid": 108,
+      "prodname": "Cupboard",
+      "prodcategory": "Furniture",
+      "prodarea": "Bedroom",
+      "details": "Stylish and huge",
+      "image": "https://img.pikbest.com/wp/202404/wardrobe-3d-illustration-of-a-white-background-with-an-isolated-wooden-open-and-empty_9799700.jpg!bw700",
+      "cost": 10000
+    },
+    {
+      "id": "10",
+      "prodid": 109,
+      "prodname": "Counter top chair",
+      "prodcategory": "Furniture",
+      "prodarea": "Kitchen",
+      "details": "comfortable and portable",
+      "image": "https://modernhomefurniture.com.au/cdn/shop/products/Sandown-kitchen-bar-stool-natural-timber-frame-white-upholstered-white-seat_297f72c6-f78e-439d-a803-1140f2792861_1024x1024.jpg?v=1611363207",
+      "cost": 2500
+    },
+    {
+      "id": "11",
+      "prodid": 110,
+      "prodname": "Dining Table",
+      "prodcategory": "Furniture",
+      "prodarea": "Kitchen",
+      "details": "Stylish and compact",
+      "image": "https://www.funkihomes.com/80386-large_default/teramo-small-oak-dining-table.jpg",
+      "cost": 25000
+    },
+    {
+      "id": "12",
+      "prodid": 111,
+      "prodname": "Cuttlery",
+      "prodcategory": "Utensils",
+      "prodarea": "Kitchen",
+      "details": "Wooden set",
+      "image": "https://png.pngtree.com/thumb_back/fh260/background/20220609/pngtree-wicker-baskets-holding-a-collection-of-wooden-cutlery-on-a-white-background-photo-image_31250424.jpg",
+      "cost": 2000
+    },
+    {
+      "id": "13",
+      "prodid": 112,
+      "prodname": "Bowl",
+      "prodcategory": "Utensils",
+      "prodarea": "Kitchen",
+      "details": "Wooden bowl",
+      "image": "https://t3.ftcdn.net/jpg/03/01/02/58/360_F_301025855_syiQuH8agsO9Jw9MMBNBNKUlAChLcmFL.jpg",
+      "cost": 900
+    },
+    {
+      "id": "14",
+      "prodid": 113,
+      "prodname": "Carpet",
+      "prodcategory": "Showpiece",
+      "prodarea": "Hall",
+      "details": "Colourful and soft",
+      "image": "https://t3.ftcdn.net/jpg/02/35/02/20/360_F_235022029_5vqFinhN6Fu5sfSAzH8NIsPswNbhrbmm.jpg",
+      "cost": 4500
+    },
+    {
+      "id": "15",
+      "prodid": 114,
+      "prodname": "Bedsheet",
+      "prodcategory": "Bed",
+      "prodarea": "Bedroom",
+      "details": "Breathable and soft",
+      "image": "https://t3.ftcdn.net/jpg/06/57/40/02/360_F_657400278_5TDbpGS50uvU4Cd2lj8hSK4Cen6UrOgU.jpg",
+      "cost": 5500
+    },
+    {
+      "id": "16",
+      "prodid": 115,
+      "prodname": "Clock",
+      "prodcategory": "clock",
+      "prodarea": "Bedroom",
+      "details": "Aesthetic red clock",
+      "image": "https://www.ikea.com/in/en/images/products/pluttis-wall-clock-red__1013097_pe829051_s5.jpg",
+      "cost": 2000
+    },
+    {
+      "id": "17",
+      "prodid": 116,
+      "prodname": "Jars and tray",
+      "prodcategory": "Utensils",
+      "prodarea": "Kitchen",
+      "details": "Unbreakable storange set",
+      "image": "https://www.ikea.com/in/en/images/products/saxborga-jar-with-lid-and-tray-set-of-5-glass-cork__0711880_pe728534_s5.jpg?f=s",
+      "cost": 1500
+    },
+    {
+      "id": "18",
+      "prodid": 117,
+      "prodname": "Cabinet",
+      "prodcategory": "Furniture",
+      "prodarea": "Hall",
+      "details": "Stylish and compact",
+      "image": "https://www.ikea.com/in/en/images/products/hemnes-glass-door-cabinet-with-3-drawers-black-brown-light-brown__0806986_pe770200_s5.jpg?f=s",
+      "cost": 33000
+    }
+  ],
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin1234",
+      "id": "L"
+    }
+  ]
+}

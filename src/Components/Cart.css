@@ -1,0 +1,22 @@
+.cart-btn {
+    background-color: rgba(246, 206, 29, 0.9);
+    border: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+    
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+  .cart-btn:hover {
+    background: #043390; /* Green */
+  }
+ 
+  .cart-btn:active {
+    background: #0a0a0a;
+  }
