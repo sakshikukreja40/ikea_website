@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { dataServiceObj } from "../services/data.service";
-import 'D:/1 SAKSHI/projects/ikea project/ikea/src/Components/Create.css';
+import '../Components/Create.css';
 // import './item.css';
 import './a1.css';
 import './a2.css';

@@ -3,7 +3,7 @@ import { removeProduct } from "../Redux/CartAction";
 import { useDispatch } from "react-redux";
 import { Link } from "react-router-dom";
 import { useState } from "react";
-import 'D:/1 SAKSHI/projects/ikea project/ikea/src/Components/Cart.css';
+import '../Components/Cart.css';
 import final from './Payment';
 
 

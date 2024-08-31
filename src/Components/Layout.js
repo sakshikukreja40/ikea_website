@@ -1,5 +1,5 @@
 import { Outlet, Link } from "react-router-dom";
-import 'D:/1 SAKSHI/projects/ikea project/ikea/src/Components/Layout.css';
+import '../Components/Layout.css';
 
  
 const Layout = () => {

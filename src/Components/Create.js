@@ -11,7 +11,7 @@ import ProtectedRoute from "./ProtectedRoute";
 import Logout from "./Logout";
 import Products from "./Products";
 import { useLocation, useNavigate } from "react-router-dom";
-import 'D:/1 SAKSHI/projects/ikea project/ikea/src/Components/Create.css'
+import '../Components/Create.css'
 
 window.flag1 = 0;
 function UserCreate() {

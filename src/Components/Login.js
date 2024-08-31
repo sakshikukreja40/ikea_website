@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { useLocation, useNavigate } from "react-router-dom";
-import { dataServiceObj1 } from "D:/1 SAKSHI/projects/ikea project/ikea/src/services/data.service1.js";
+import { dataServiceObj1 } from "../services/data.service1.js";
 import { dataServiceObj2 } from '../services/data.service2';
 import UserCreate from './Create';
-import 'D:/1 SAKSHI/projects/ikea project/ikea/src/Components/Login.css';
+import '../Components/Login.css';
 
 window.access = 0;
 function Login() {

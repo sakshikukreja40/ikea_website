@@ -1,7 +1,7 @@
 import { useState } from "react";
 import React from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-import 'D:/1 SAKSHI/projects/ikea project/ikea/src/Components/Home.css';
+import '../Components/Home.css';
  
 function Home(){
     return (
